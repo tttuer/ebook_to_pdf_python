@@ -2,7 +2,7 @@ from PIL import Image
 import os
 
 # 참고: https://stackoverflow.com/questions/47308541/how-to-save-an-image-list-in-pdf-using-pil-pillow
-path = input("폴더 경로를 입력하세요\n")
+path = input("이미지가 위치한 폴더 경로를 입력하세요\n")
 file_list = os.listdir(path)
 
 file_list.sort()
