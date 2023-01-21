@@ -7,6 +7,9 @@ pip install pyscreenshot
 pip install pynput
 ```
 
+## 종료
+설정을 잘못하여 중간에 종료하고 싶은 경우 k를 누르면 종료할 수 있다.
+
 # pdf
 ## 라이브러리 설치
     pip install pillow
